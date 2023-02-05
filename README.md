@@ -1,6 +1,5 @@
-# Practical Java Unit Testing with JUnit 5
-> Adrian Wiech
+# Udemy - Practical Java Unit Testing with JUnit 5
 
-https://massanalytics.udemy.com/course/junit5-for-beginners/learn/lecture/12417722#overview
+> Adrian Wiech
 
 "Practical Java Unit Testing with JUnit 5" course source code
